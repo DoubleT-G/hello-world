@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hi, I'm T Grashaw. I like to work with web development languages like HTML, CSS, and JavaScript, as well
 as using Object oriented languages like Java and C#. I also have a decent understanding of Sequel and
